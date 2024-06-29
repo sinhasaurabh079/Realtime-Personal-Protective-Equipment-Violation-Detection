@@ -19,6 +19,14 @@ This project aims to enhance safety standards on construction sites by detecting
 - **Containerization:** Docker
 - **Deployment:** NVIDIA DGX A100 server
 
+
+## Project Screenshots
+- Frontend
+- automatic generated email screenshot 
+
+![Screenshot 2](https://github.com/sinhasaurabh079/Realtime-Personal-Protective-Equipment-Violation-Detection/blob/main/Images/Screenshot%20from%202024-04-05%2016-49-23.png)
+![Screenshot 1](https://github.com/sinhasaurabh079/Realtime-Personal-Protective-Equipment-Violation-Detection/blob/main/Images/IMG_20240629_143111.jpg)
+
 ## Installation
 
 1. **Clone the repository:**
@@ -58,4 +66,5 @@ This project aims to enhance safety standards on construction sites by detecting
 2. **Train the YOLOv7 model:**
     - Use the prepared dataset to train the model.
     - Ensure the trained model weights are saved and accessible to the application.
+
 
